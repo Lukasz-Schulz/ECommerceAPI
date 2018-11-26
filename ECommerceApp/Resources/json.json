@@ -1,0 +1,46 @@
+{
+  "AvailibleCategories": {
+    "leksaker": {
+      "Articles": [
+        {
+          "ArticleNo": "40151785",
+          "ArticleName": "Big Foot truck 2wd",
+          "Description": "Det här är bilen som startade alltihop och skapade den idag enorma monster-truck trenden.\t",
+          "PriceInSEK": 2795.0
+        }
+      ]
+    },
+    "sport": {
+      "Articles": [
+        {
+          "ArticleNo": "39533028",
+          "ArticleName": "Elcykel Allegro",
+          "Description": "En smart och tillförlitlig elcykel för dam från Batavus utmärkt både för långa och kortare turer.",
+          "PriceInSEK": 18499.0
+        },
+        {
+          "ArticleNo": "p40266837",
+          "ArticleName": "Lapierre Overvolt Urban 300",
+          "Description": "Praktisk och bekväm elcykel med upprätt körställning.\t",
+          "PriceInSEK": 20990.0
+        }
+      ]
+    },
+    "hemelektronik": {
+      "Articles": [
+        {
+          "ArticleNo": "35372817",
+          "ArticleName": "Chrome cast 2nd generationen",
+          "Description": "Visar film eller annan media från mobilen på TV:n",
+          "PriceInSEK": 390.0
+        },
+        {
+          "ArticleNo": "35552289",
+          "ArticleName": "Apple TV 64GB 4th generation",
+          "Description": "Nu kommer App Store till din tv. Du kan förvänta dig massor av spännande spel.",
+          "PriceInSEK": 1990.0
+        }
+      ]
+    }
+  }
+}

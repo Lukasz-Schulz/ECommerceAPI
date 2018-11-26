@@ -1,0 +1,11 @@
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp2.0\ECommerceApp.deps.json
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp2.0\ECommerceApp.runtimeconfig.json
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp2.0\ECommerceApp.runtimeconfig.dev.json
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp2.0\ECommerceApp.dll
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp2.0\ECommerceApp.pdb
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.csprojAssemblyReference.cache
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.dll
+C:\Users\CM\source\repos\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp2.0\ECommerceApp.pdb
